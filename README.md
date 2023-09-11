@@ -1,10 +1,6 @@
-# AirBnB_clone - Console
+AirBnB_clone - Console
 
 ![Console](https://github.com/C.shoga/AirBnB_clone/images/console_airbnb.png)
-"Structure of the project"
-
-`Storage engine -> Json file.`
-`Console -> cmd with python library cmd.Cmd`
 
 # Description of the project
 

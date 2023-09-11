@@ -1,6 +1,6 @@
 AirBnB_clone - Console
 
-![Console](https://github.com/C.shoga/AirBnB_clone/images/console_airbnb.png)
+![IMG_20230911_070438_880.jpg](https://github.com/C.shoga/AirBnB_clone/images/IMG_20230911_070438_880.jpg)
 
 # Description of the project
 

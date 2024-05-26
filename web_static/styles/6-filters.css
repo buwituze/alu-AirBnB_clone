@@ -27,24 +27,43 @@
 
 .locations {
         height: 100%;
-        width: 25%;
+        width: 33%;
         border-right: solid 1px #DDDDDD;
     }
 .amenities {
         height: 100%;
-        width: 25%;
-        margin-left: -10%;
+        width: 33%;
+        margin-left: -11%;
     }
 
 .filters h3 {
         font-weight: 600;
         align-content: center;
-        margin: 13px 0 0 20px;
+        padding: 0 0 0 20px;
 
     }
 .filters h4 {
         font-weight: 400;
         font-size: 14px;
-        margin: 0px 0 0px 20px;
+        padding: 0 0 0px 20px;
         
     } 
+.popover{
+        display: none;
+        background-color: #FAFAFA;
+        width: 100%;
+        border: solid 1px #DDDDDD;
+        border-radius: 4px;
+        list-style: none;
+        margin-top: -5.5%;
+        z-index: 1;
+}
+.popover ul h2 {
+    font-size: 16px;
+}
+.locations:hover .popover{
+    display: block;
+}
+.amenities:hover .popover{
+    display: block;
+}

@@ -29,11 +29,13 @@
         height: 100%;
         width: 33%;
         border-right: solid 1px #DDDDDD;
+        position: relative;
     }
 .amenities {
         height: 100%;
         width: 33%;
         margin-left: -11%;
+        position: relative;
     }
 
 .filters h3 {
@@ -56,7 +58,6 @@
         border-radius: 4px;
         list-style: none;
         margin-top: -5.5%;
-        z-index: 1;
 }
 .popover ul h2 {
     font-size: 16px;
